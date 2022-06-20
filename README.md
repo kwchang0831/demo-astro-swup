@@ -1,6 +1,6 @@
 <h1 align="center">Astro + Swup = Demo</h1>
 <p align="center">
-<a href="/">🚀 Demo on Vercel</a>
+<a href="https://demo-astro-swup.vercel.app/">🚀 Demo on Vercel</a>
 </p>
 
 ## 🎉 Try it out
